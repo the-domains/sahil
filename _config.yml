@@ -1,0 +1,28 @@
+name: Sahil
+favicon: null
+layout_spectrum: 0.4388899595942348
+typography_spectrum: 0.9268159745261073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6043400771450251
+  lightness: 0.3559178381692618
+  saturation: 0.7348633818328381
+  rhythmicContrast: 0.2559804613701999
+purpose: []
